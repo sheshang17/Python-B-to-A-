@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../Bascis"
+		},
+		{
+			"path": "../conditional"
+		},
+		{
+			"path": "../Loop"
+		},
+		{
+			"path": "."
+		}
+	]
+}
